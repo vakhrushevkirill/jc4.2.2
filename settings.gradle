@@ -1,0 +1,4 @@
+rootProject.name = 'jc4.2.2'
+include 'db', 'service', 'api'
+include 'api'
+
